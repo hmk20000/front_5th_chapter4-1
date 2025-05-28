@@ -15,3 +15,16 @@ pnpm dev
 # or
 bun dev
 ```
+
+## 주요 링크
+
+- S3 버킷 웹사이트 엔드포인트: http://clarion.kr.s3-website.ap-northeast-2.amazonaws.com/
+- CloudFrount 배포 도메인 이름: https://d1pw52sct3vs7x.cloudfront.net/
+
+## 주요 개념
+
+- GitHub Actions과 CI/CD 도구: _________
+- S3와 스토리지: _________
+- CloudFront와 CDN: _________
+- 캐시 무효화(Cache Invalidation): _________
+- Repository secret과 환경변수: _________
