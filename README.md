@@ -20,6 +20,7 @@ bun dev
 
 - S3 버킷 웹사이트 엔드포인트: http://clarion.kr.s3-website.ap-northeast-2.amazonaws.com/
 - CloudFrount 배포 도메인 이름: https://d1pw52sct3vs7x.cloudfront.net/
+- Route53으로 도메인 연결 : https://clarion.kr/
 
 ## 주요 개념
 
